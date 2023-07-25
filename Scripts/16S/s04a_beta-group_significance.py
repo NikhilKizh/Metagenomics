@@ -1,4 +1,5 @@
 # beta-group_significance by treatment
+# metadata-column_Treatment
 
 qiime diversity beta-group-significance \
   --i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
