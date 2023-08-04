@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 # QIIME2 - Denoise
 # Alexey Larionov, Nov2022
 # Nikhil Kizhakkepath jun2023
