@@ -6,12 +6,12 @@
 
 # Crescent2 script
 # Note: this script should be run on a compute node
-# qsub s11_beta_group_permannova.sh
+# qsub s11a_beta_group_permannova_Day.sh
 
 # PBS directives
 #---------------
 
-#PBS -N s11_beta_group_permannova
+#PBS -N s11a_beta_group_permannova_Day
 #PBS -l nodes=1:ncpus=12
 #PBS -l walltime=01:00:00
 #PBS -q one_hour
