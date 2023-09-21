@@ -1,0 +1,26 @@
+sampleid        Control Mixture Treatment	Day     Replicate	Name
+#q2:types sampleid: Categorical, Control: Categorical, Mixture: Categorical, Treatment: Categorical, Day: Categorical, Replicate: Categorical, Name: Categorical
+25-25_16S_TCCTGAGC-TCGACTAG_L001        Control Soil    Soil    28	R1	Soil-Soil-28-R1
+26-26_16S_TCCTGAGC-TTCTAGCT_L001        Control Soil    Soil    28	R2	Soil-Soil-28-R2
+27-27_16S_TCCTGAGC-CCTAGAGT_L001        Control Soil    Soil    28	R3	Soil-Soil-28-R3
+28-28_16S_TCCTGAGC-GCGTAAGA_L001        Control Soil    Soil    28	R4	Soil-Soil-28-R4
+29-29_16S_TCCTGAGC-CTATTAAG_L001        Treatment	Pure    Buckwheat	28	R1	Pure-Buckwheat-28-R1
+30-30_16S_TCCTGAGC-AAGGCTAT_L001        Treatment	Pure    Buckwheat	28	R2	Pure-Buckwheat-28-R2
+31-31_16S_TCCTGAGC-GAGCCTTA_L001        Treatment	Pure    Buckwheat	28	R3	Pure-Buckwheat-28-R3
+32-32_16S_TCCTGAGC-TTATGCGA_L001        Treatment	Pure    Buckwheat	28	R4	Pure-Buckwheat-28-R4
+33-33_16S_GGACTCCT-TCGACTAG_L001        Treatment	Pure    Clover  28	R1	Pure-Clover-28-R1
+34-34_16S_GGACTCCT-TTCTAGCT_L001        Treatment	Pure    Clover  28	R2	Pure-Clover-28-R2
+35-35_16S_GGACTCCT-CCTAGAGT_L001        Treatment	Pure    Clover  28	R3	Pure-Clover-28-R3
+36-36_16S_GGACTCCT-GCGTAAGA_L001        Treatment	Pure    Clover  28	R4	Pure-Clover-28-R4
+37-37_16S_GGACTCCT-CTATTAAG_L001        Treatment	Pure    Radish  28	R1	Pure-Radish-28-R1
+38-38_16S_GGACTCCT-AAGGCTAT_L001        Treatment	Pure    Radish  28	R2	Pure-Radish-28-R2
+39-39_16S_GGACTCCT-GAGCCTTA_L001        Treatment	Pure    Radish  28	R3	Pure-Radish-28-R3
+40-40_16S_GGACTCCT-TTATGCGA_L001        Treatment	Pure    Radish  28	R4	Pure-Radish-28-R4
+41-41_16S_TAGGCATG-TCGACTAG_L001        Treatment	Pure    Sunflower	28	R1	Pure-Sunflower-28-R1
+42-42_16S_TAGGCATG-TTCTAGCT_L001        Treatment	Pure    Sunflower	28	R2	Pure-Sunflower-28-R2
+43-43_16S_TAGGCATG-CCTAGAGT_L001        Treatment	Pure    Sunflower	28	R3	Pure-Sunflower-28-R3
+44-44_16S_TAGGCATG-GCGTAAGA_L001        Treatment	Pure    Sunflower	28	R4	Pure-Sunflower-28-R4
+45-45_16S_TAGGCATG-CTATTAAG_L001        Treatment	Mix     Mix     28	R1	Mix-Mix-28-R1
+46-46_16S_TAGGCATG-AAGGCTAT_L001        Treatment	Mix     Mix     28	R2	Mix-Mix-28-R2
+47-47_16S_TAGGCATG-GAGCCTTA_L001        Treatment	Mix     Mix     28	R3	Mix-Mix-28-R3
+48-48_16S_TAGGCATG-TTATGCGA_L001        Treatment	Mix     Mix     28	R4	Mix-Mix-28-R4
