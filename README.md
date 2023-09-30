@@ -9,8 +9,8 @@ This pipeline inputs raw illumina paired-end fastq sequences , checks for qualit
 
 **Prerequisites**
 
-Paired-end illumina fastq files
-[QIIME2](https://docs.qiime2.org/2023.7/install/)
+-Paired-end illumina fastq files
+-[QIIME2](https://docs.qiime2.org/2023.7/install/)
 
 
 
