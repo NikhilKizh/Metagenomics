@@ -10,6 +10,7 @@ This pipeline inputs raw illumina paired-end fastq sequences , checks for qualit
 **Prerequisites**
 
 1.-Paired-end illumina fastq files
+
 2.-[QIIME2](https://docs.qiime2.org/2023.7/install/)
 
 
